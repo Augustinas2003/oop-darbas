@@ -1,0 +1,9 @@
+user1,password1,client,John,Doe,test,1
+user2,password2,worker,Jane,Smith,test,2
+user3,password3,admin,Admin,User,test,3
+Tomas,Maciulis,client,Tomas,Maciulis,pilaite,4
+Marius,Mykauskas,client,Marius,Mykauskas,pilaite,5
+Jonas,Jonauskas,client,Jonas,Jonauskas,pilaite,6
+Augustinas,Karaliunas,client,Augustinas,Karaliunas,justiniskes,7
+paulius,paulauskas,client,paulius,paulauskas,karoliniskes,8
+hutrsdk,kujtrhs,worker,hutrsdk,kujtrhs,9
